@@ -88,11 +88,11 @@ const Contact = () => {
             <img
               src="/mitantsoa1.github.io/images/icons8-équipes-microsoft-48.png"
               className="w-10 h-10"
-              alt="skype"
+              alt="Teams"
             />
           </a>
           <a
-            aria-label="Appeler Hanja sur Skype"
+            aria-label="Appeler Hanja sur Teams"
             href="skype:live:.cid.a4ba60b3dd512ff6?call"
             className="text-lg font-semibold hover:underline"
             target="_blank"
