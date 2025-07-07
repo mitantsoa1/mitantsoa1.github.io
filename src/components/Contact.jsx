@@ -77,16 +77,16 @@ const Contact = () => {
         {/* skype Hanja */}
         <p className="flex items-center mb-4">
           <a
-            aria-label="Appeler Hanja sur Skype"
+            aria-label="Appeler Hanja sur Teams"
             href="skype:live:.cid.a4ba60b3dd512ff6?call"
             target="_blank"
             rel="noopener noreferrer"
             data-position="top"
-            data-tooltip="Appeler Hanja sur Skype"
+            data-tooltip="Appeler Hanja sur Teams"
             className="inline-block p-2 mr-4 text-white rounded-full bg-contact btn-floating btn-large waves-effect waves-social hover:bg-social"
           >
             <img
-              src="/portfolio/images/skype.png"
+              src="/mitantsoa1.github.io/images/icons8-équipes-microsoft-48.png"
               className="w-10 h-10"
               alt="skype"
             />
