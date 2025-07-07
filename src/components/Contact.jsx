@@ -86,7 +86,7 @@ const Contact = () => {
             className="inline-block p-2 mr-4 text-white rounded-full bg-contact btn-floating btn-large waves-effect waves-social hover:bg-social"
           >
             <img
-              src="/mitantsoa1.github.io/images/icons8-équipes-microsoft-48.png"
+              src="/images/icons8-équipes-microsoft-48.png"
               className="w-10 h-10"
               alt="Teams"
             />
